@@ -1,16 +1,16 @@
 {
   "blogs": [
     {
-      "title": "Hello ninjas",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque excepturi ipsum, omnis exercitationem nostrum numquam! Officia repudiandae quam, temporibus, laudantium sapiente maxime laboriosam perferendis error, esse possimus harum eligendi enim.",
-      "author": "yoshi",
-      "id": 5
-    },
-    {
       "title": "FIRST EVER REACT BLOG",
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius corrupti excepturi veritatis esse tenetur quis saepe totam impedit doloribus. Deserunt tempora autem iusto itaque non dolore sed modi odit laborum.",
       "author": "yoshi",
       "id": 6
+    },
+    {
+      "title": "new blog",
+      "body": "lorem ipsum",
+      "author": "mario",
+      "id": 7
     }
   ]
 }
